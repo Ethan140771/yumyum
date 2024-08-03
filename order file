@@ -1,0 +1,23 @@
+{
+  "orders": [
+    {
+      "order_number": "#YY1001",
+      "customer_name": "Jane Doe",
+      "shipping_address": "123 Sunset Blvd, Los Angeles, CA 90001, USA",
+      "order_status": "In Transit",
+      "current_location": "On the way to Los Angeles, USA (Departed from Beijing, China)",
+      "expected_delivery_date": "August 7, 2024",
+      "tracking_number": "CN1002001US",
+      "carrier": "DHL Express"
+    },
+    {
+      "order_number": "#YY1002",
+      "customer_name": "John Smith",
+      "shipping_address": "456 King’s Road, Chelsea, London SW10 0LD, UK",
+      "order_status": "Delivered",
+      "delivery_date": "July 29, 2024",
+      "tracking_number": "GB1003002UK",
+      "carrier": "Royal Mail"
+    }
+  ]
+}
